@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/servercolegio/databases/colegio",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:servercolegio.database.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

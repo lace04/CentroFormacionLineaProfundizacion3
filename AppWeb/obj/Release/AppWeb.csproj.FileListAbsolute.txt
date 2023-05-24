@@ -1,0 +1,360 @@
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\AppWeb.dll.config
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\AppWeb.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\AppWeb.pdb
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\csc.exe
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\csc.exe.config
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\csc.rsp
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\csi.exe
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\csi.exe.config
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\csi.rsp
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.AppContext.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Console.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\vbc.exe
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\vbc.exe.config
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\vbc.rsp
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Antlr3.Runtime.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\EntityFramework.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Helpers.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Mvc.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Optimization.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Razor.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.WebPages.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\WebGrease.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\EntityFramework.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Helpers.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Mvc.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Optimization.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.Razor.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.WebPages.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Antlr3.Runtime.pdb
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\obj\Release\AppWeb.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CopyComplete
+C:\Users\admin\source\repos\AppWeb\AppWeb\obj\Release\AppWeb.dll
+C:\Users\admin\source\repos\AppWeb\AppWeb\obj\Release\AppWeb.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\AppWeb.dll.config
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\AppWeb.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\AppWeb.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\obj\Release\AppWeb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\obj\Release\AppWeb.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppWeb\AppWeb\obj\Release\AppWeb.pdb
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\AppWeb.dll.config
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\AppWeb.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\AppWeb.pdb
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\csc.exe
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\csc.exe.config
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\csc.rsp
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\csi.exe
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\csi.exe.config
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\csi.rsp
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.AppContext.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Console.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Net.Http.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Net.Sockets.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.ValueTuple.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\vbc.exe
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\vbc.exe.config
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\vbc.rsp
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Antlr3.Runtime.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\EntityFramework.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\EntityFramework.SqlServer.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Newtonsoft.Json.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Helpers.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Mvc.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Optimization.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Razor.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.WebPages.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\WebGrease.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\EntityFramework.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\EntityFramework.SqlServer.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Helpers.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Mvc.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Optimization.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.Razor.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.WebPages.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Newtonsoft.Json.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Antlr3.Runtime.pdb
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.Helpers.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.Mvc.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.Optimization.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.Razor.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.WebPages.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\obj\Release\AppWeb.csproj.AssemblyReference.cache
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CoreCompileInputs.cache
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CopyComplete
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\obj\Release\AppWeb.dll
+G:\Mi unidad\PROYECYO FINAL LINEA 3 2023\AppWeb\AppWeb\obj\Release\AppWeb.pdb
+I:\PROYECT\AppWeb\AppWeb\bin\AppWeb.dll.config
+I:\PROYECT\AppWeb\AppWeb\bin\AppWeb.dll
+I:\PROYECT\AppWeb\AppWeb\bin\AppWeb.pdb
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\csc.exe
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\csc.exe.config
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\csc.rsp
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\csi.exe
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\csi.exe.config
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\csi.rsp
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.Managed.Core.targets
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.AppContext.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Collections.Immutable.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Console.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Globalization.Calendars.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Net.Http.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Net.Sockets.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Reflection.Metadata.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.ValueTuple.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Xml.XmlDocument.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\vbc.exe
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\vbc.exe.config
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\vbc.rsp
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe
+I:\PROYECT\AppWeb\AppWeb\bin\roslyn\VBCSCompiler.exe.config
+I:\PROYECT\AppWeb\AppWeb\bin\Antlr3.Runtime.dll
+I:\PROYECT\AppWeb\AppWeb\bin\EntityFramework.dll
+I:\PROYECT\AppWeb\AppWeb\bin\EntityFramework.SqlServer.dll
+I:\PROYECT\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\PROYECT\AppWeb\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+I:\PROYECT\AppWeb\AppWeb\bin\Newtonsoft.Json.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Helpers.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Mvc.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Optimization.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Razor.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.WebPages.dll
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.dll
+I:\PROYECT\AppWeb\AppWeb\bin\WebGrease.dll
+I:\PROYECT\AppWeb\AppWeb\bin\EntityFramework.xml
+I:\PROYECT\AppWeb\AppWeb\bin\EntityFramework.SqlServer.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Helpers.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Mvc.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Optimization.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.Razor.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.WebPages.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.WebPages.Deployment.xml
+I:\PROYECT\AppWeb\AppWeb\bin\System.Web.WebPages.Razor.xml
+I:\PROYECT\AppWeb\AppWeb\bin\Newtonsoft.Json.xml
+I:\PROYECT\AppWeb\AppWeb\bin\Antlr3.Runtime.pdb
+I:\PROYECT\AppWeb\AppWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.Helpers.resources.dll
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.Mvc.resources.dll
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.Optimization.resources.dll
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.Razor.resources.dll
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.WebPages.resources.dll
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\PROYECT\AppWeb\AppWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\PROYECT\AppWeb\AppWeb\obj\Release\AppWeb.csproj.AssemblyReference.cache
+I:\PROYECT\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CoreCompileInputs.cache
+I:\PROYECT\AppWeb\AppWeb\obj\Release\AppWeb.csproj.CopyComplete
+I:\PROYECT\AppWeb\AppWeb\obj\Release\AppWeb.dll
+I:\PROYECT\AppWeb\AppWeb\obj\Release\AppWeb.pdb
